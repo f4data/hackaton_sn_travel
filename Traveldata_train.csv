@@ -1,0 +1,3 @@
+,ID,Gender,CustomerType,Age,TypeTravel,Travel_Class,Travel_Distance,DepartureDelay_in_Mins,ArrivalDelay_in_Mins
+0,1,Male,Student,21,Discount,C,25,1,2
+1,2,Male,Teacher,22,Regular,B,26,0,0
